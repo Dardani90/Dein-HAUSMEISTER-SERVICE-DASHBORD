@@ -30,6 +30,7 @@ Dann im Browser: http://localhost:3000
 
 - `http://localhost:3000/` → Dashboard (Hausverwaltung)
 - `http://localhost:3000/report` → Schaden melden (für Bewohner, QR-Code-Ziel)
+- `http://localhost:3000/vision` → Konzeptseite mit Rollen, QR-Ideen & Automationen
 
 ## QR-Code verwenden
 
